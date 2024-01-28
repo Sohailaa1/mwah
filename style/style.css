@@ -126,7 +126,7 @@ body {
   position: absolute;
   width: 80px;
   top: -35px;
-  left: 60%; /* Adjust this value to move the hat further to the right */
+  right: 60%; /* Adjust this value to move the hat further to the right */
 }
 
 
